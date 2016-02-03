@@ -68,3 +68,9 @@ Started GET "/assets/welcome-690e1c8467a7aaa7a8ccbcbfae1de7ab.js?body=1" for ::1
 
 
 Started GET "/assets/application-c663b928f1ebaaea2dedcae61fc45633.js?body=1" for ::1 at 2016-02-03 16:18:08 +0800
+
+
+Started GET "/" for ::1 at 2016-02-03 16:29:34 +0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 29.6ms | ActiveRecord: 0.0ms)

@@ -1,6 +1,7 @@
 == README
 
 run rails server to start
+view http://localhost:3000/
 
 Reference:
 http://guides.rubyonrails.org/getting_started.html
