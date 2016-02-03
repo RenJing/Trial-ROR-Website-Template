@@ -1,0 +1,6 @@
+== README
+
+run rails server to start
+
+Reference:
+http://guides.rubyonrails.org/getting_started.html
